@@ -2,8 +2,6 @@
 ## Olá! 🤓 <div style="display: inline_block"> # Tudo aqui ainda está em manutenção, então os repositórios estão incompletos. Estou ajustando os documentos e revisando tudo pra não faltar nada! </div><br/>
 <div style="display: inline_block"> </div><br/>
 
-![Aguirre GitHub stats](https://github-readme-stats.vercel.app/api?username=aguirre-technsci&show_icons=true&theme=dracula&count_private=true)
-#
 
 ### "Uma visão ampla e integrada de diferentes campos do conhecimento é minha forma de contribuir para um futuro mais sustentável, tecnologicamente avançado e socialmente justo."
 #
