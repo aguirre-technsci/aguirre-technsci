@@ -7,8 +7,7 @@
 #
 
 
-### Aqui no GitHub, compartilho meus estudos e projetos relacionados ao meu desenvolvimento profissional. Sou graduando em Ciência e Tecnologia no IFPA  Ananindeua e integrante do grupo de pesquisa GM²SC, focado em aplicação matemática-computacional interdisciplinar. Ativo em projetos de pesquisa sobre computação, energia renovável, inteligência artificial e meio-ambiente. Desenvolvendo habilidades em Python e MATLAB/OCTAVE para seguir carreira como Cientista de Dados (ou algo relacionado).
-
+### Aqui no GitHub, compartilho meus estudos e projetos relacionados ao meu desenvolvimento profissional. Sou Mestrando em Engenharia na UNIPAMPA e integrante do grupo de pesquisa LFCTA, focado em aplicação matemática-computacional com ciências climáticas.
 
 #
 
@@ -16,7 +15,7 @@
 
 [![LattesCNPQ](https://custom-icon-badges.demolab.com/badge/-Lattes%20CNPQ-white?style=for-the-badge&logoColor=white&logo=lattescnpq-minimalist)](http://lattes.cnpq.br/1465510131848179)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguirre-fernando/)
-[![E-mail](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguirrefernando.ifpa@gmail.com)
+[![E-mail](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguirrefernando.unipampa@gmail.com)
 
 
 ## Linguagens de Programação favoritas:
