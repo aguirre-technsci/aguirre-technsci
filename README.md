@@ -1,5 +1,5 @@
 
-## Olá! 🤓 <div style="display: inline_block"> # Tudo aqui ainda está em manutenção, então os repositórios estão incompletos. Estou ajustando os documentos e revisando tudo pra não faltar nada! </div><br/>
+## Olá! 🤓 <div style="display: inline_block">
 <div style="display: inline_block"> </div><br/>
 
 
