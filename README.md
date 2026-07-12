@@ -7,7 +7,7 @@
 #
 
 
-### Aqui no GitHub, compartilho meus estudos e projetos relacionados ao meu desenvolvimento profissional. Sou Mestrando em Engenharia na UNIPAMPA e integrante do grupo de pesquisa LFCTA, focado em aplicação matemática-computacional com ciências climáticas.
+### Aqui no GitHub, compartilho meus estudos e projetos relacionados ao meu desenvolvimento profissional.
 
 #
 
