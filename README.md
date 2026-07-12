@@ -2,7 +2,6 @@
 ## Olá! 🤓 <div style="display: inline_block">
 <div style="display: inline_block"> </div><br/>
 
-
 ### "Uma visão ampla e integrada de diferentes campos do conhecimento é minha forma de contribuir para um futuro mais sustentável, tecnologicamente avançado e socialmente justo."
 #
 
